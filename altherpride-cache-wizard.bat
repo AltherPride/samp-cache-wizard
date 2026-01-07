@@ -29,7 +29,7 @@ if "%~1"=="" (
 title AltherPride Cache Wizard
 
 set TEMP_DIR=%TEMP%\alther_temp
-set OLD_FOLDER=139.59.241.180.7777
+set OLD_FOLDER=159.223.72.40.7777
 set CHECKED_DIR=%USERPROFILE%\Documents\GTA San Andreas User Files\SAMP\cache\%OLD_FOLDER%
 set ZIP_FILE=%TEMP%\alther_models.zip
 set TARGET_DIR=%USERPROFILE%\Documents\GTA San Andreas User Files\SAMP\cache
